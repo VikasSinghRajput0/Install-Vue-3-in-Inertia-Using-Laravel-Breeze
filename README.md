@@ -68,9 +68,9 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 # Versions
 
-[Laravel Framework] (9.42.2) 
-[node-v]           (v16.17.1) 
-[PHP]              (v8.1.10) 
-[VITE]             (v3.2.5) 
-[vue]              (3.2.36) 
-[bootstrap]        (5.2.1) 
+Laravel Framework : [(9.42.2)]
+node-v :           [(v16.17.1)]
+PHP :              [(v8.1.10)]
+VITE :             [(v3.2.5)]
+vue :              [(3.2.36)]
+bootstrap :        [(5.2.1)]
